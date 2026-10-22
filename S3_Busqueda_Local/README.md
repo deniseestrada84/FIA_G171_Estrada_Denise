@@ -45,7 +45,8 @@ S3_Busqueda_Local/
     └── animacion_simulated_annealing.gif
 ```
 
-Las imágenes, las animaciones y el archivo JSON ya están incluidos en esta carpeta con los resultados de la entrega. Se vuelven a generar (y se sobrescriben) cada vez que se ejecuta el programa.
+Las imágenes se generan al ejecutar el programa.
+el archivo JSON ya está incluido en esta carpeta con los resultados de la entrega. Se vuelven a generar (y se sobrescriben) cada vez que se ejecuta el programa.
 
 ## 4. Cómo ejecutar
 
